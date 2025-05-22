@@ -1,4 +1,4 @@
-import Head from 'next/head'
+import Head from 'next/head';
 
 export const Meta = () => {
   return (
@@ -8,5 +8,5 @@ export const Meta = () => {
       <meta name="description" content="A very professional profile and recommendation interface" />
       <meta charSet="UTF-8" />
     </Head>
-  )
-}
+  );
+};
