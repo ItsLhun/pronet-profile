@@ -51,3 +51,10 @@ Open [http://localhost:3000](http://localhost:3000)
 - Profile enhancement: location, socials, and, in general, more user data.
 - Functional network tab for better navigation between users.
 - Log-out button and functionality.
+
+
+### License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).  
+You may view and share the code with attribution but **not use it commercially or redistribute modified versions**.
+
